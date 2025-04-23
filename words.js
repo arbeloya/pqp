@@ -1,5 +1,5 @@
 export const WORDS = [
-      "termo",
+  "termo",
   "suíte",
   "ávido",
   "festa",
@@ -3305,4 +3305,3 @@ export const wordleDictionaryNoAccents = [
   "troca",
   "prova",
 ]
-  ]
